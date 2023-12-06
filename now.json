@@ -13,5 +13,5 @@
 	{ "source": "/catalog/(.*)/(.*)/(.*).json", "destination": "/catalogs.php?type=$1&id=$2&extra=$3" },
     { "source": "/catalog/(.*)/(.*).json", "destination": "/catalogs.php?type=$1&id=$2" }
   ],
-  "regions" : ["bom1"]
+  "regions" : ["India"]
 }
